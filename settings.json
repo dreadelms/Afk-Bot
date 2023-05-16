@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "hrdrlms.aternos.me",
+    "port": 20043,
     "version": "1.19.3"
   },
 
